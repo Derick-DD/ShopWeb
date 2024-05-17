@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+  db:
+    image: postgres
+    restart: always
+    ports:
+      - '${DB_PORT}:5432'
+    environment:
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+
+  redis:
+    image: redis:${REDIS_SERVER}-alpine
+    container_name: redis
+    # Apply custom arguments to redis startup
+    command: redis-server ${REDIS_ARGS:- }
+    environment:
+      - REDIS_ARGS=${REDIS_ARGS:- }
+    ports:
+      - ${REDIS_PORT}:6379

@@ -1,0 +1,117 @@
+.page-container {
+  padding: 20px;
+  overflow: scroll;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15dvh;
+}
+
+.colored-title {
+  padding-bottom: 20px;
+  color: #5433eb;
+  font-weight: bold;
+}
+
+.el-input-number {
+  --el-fill-color-light: #5433eb;
+  --el-text-color-regular: white;
+  .el-input-number__decrease:hover,
+  .el-input-number__increase:hover {
+    color: white;
+  }
+  .el-input {
+    --el-input-border-color: #e9e5f8 !important;
+    --el-text-color-regular: black;
+  }
+}
+
+.el-button.is-disabled {
+  --el-button-disabled-bg-color: #8976de;
+  --el-button-disabled-border-color: #8976de;
+}
+
+.el-dialog__title {
+  font-weight: bolder;
+  --el-text-color-primary: #5433eb;
+}
+
+.shop-dialog {
+  width: 500px !important;
+  .dialog-content {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    padding-bottom: 40px;
+    .title {
+      color: #5433eb;
+      flex-basis: 100%;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .shop-form {
+      width: 80%;
+      .el-form-item {
+        display: block !important;
+        .el-form-item__label {
+          font-size: 16px;
+          font-weight: 500;
+        }
+      }
+      .el-form-item.flex-item {
+        display: flex !important;
+      }
+    }
+    .dialog-footer {
+      margin-top: 30px;
+      .el-button {
+        width: 100%;
+        height: 40px;
+        font-size: 18px;
+        font-weight: bold;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .shop-dialog {
+    width: 400px !important;
+  }
+}
+
+.shop-dialog.is-fullscreen {
+  width: 100% !important;
+  .dialog-content {
+    margin-top: 15dvh;
+    .shop-form {
+      width: 60%;
+    }
+  }
+}
+
+.account-form {
+  .el-form-item {
+    display: block;
+    .el-form-item__label {
+      font-size: 16px;
+      font-weight: 500;
+    }
+    .el-input__inner {
+      height: 40px;
+      font-size: 16px;
+    }
+  }
+}
+// make el-select-dropdown stop grow when it's too long
+.el-select-dropdown {
+  max-width: 10vw;
+}
+
+// e9e5f8 8976de 5433eb

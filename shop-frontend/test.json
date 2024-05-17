@@ -1,0 +1,244 @@
+{
+  "RequestAddress": { "AddressLine": ["central"] },
+  "SuggestedAddress": [
+    {
+      "Address": {
+        "PremisesAddress": {
+          "EngPremisesAddress": {
+            "BuildingName": "CENTRAL HEIGHTS",
+            "EngEstate": { "EstateName": "PARK CENTRAL" },
+            "EngStreet": { "LocationName": "TSEUNG KWAN O", "StreetName": "TONG TAK STREET", "BuildingNoFrom": "9" },
+            "EngDistrict": { "DcDistrict": "SAI KUNG DISTRICT" },
+            "Region": "NT"
+          },
+          "GeoAddress": "4464718684T20050430",
+          "GeospatialInformation": { "Northing": "818684", "Easting": "844647", "Latitude": "22.3071", "Longitude": "114.25819" }
+        }
+      },
+      "ValidationInformation": { "Score": 100 }
+    },
+    {
+      "Address": {
+        "PremisesAddress": {
+          "EngPremisesAddress": {
+            "BuildingName": "CENTRAL MARKET",
+            "EngEstate": { "EstateName": "CENTRAL MARKET" },
+            "EngStreet": { "StreetName": "DES VOEUX ROAD CENTRAL", "BuildingNoFrom": "80" },
+            "EngDistrict": { "DcDistrict": "CENTRAL & WESTERN DISTRICT" },
+            "Region": "HK"
+          },
+          "GeoAddress": "3409416156T20050430",
+          "GeospatialInformation": { "Northing": "816127", "Easting": "834036", "Latitude": "22.28402", "Longitude": "114.15522" }
+        }
+      },
+      "ValidationInformation": { "Score": 69.93 }
+    },
+    {
+      "Address": {
+        "PremisesAddress": {
+          "EngPremisesAddress": {
+            "BuildingName": "CENTRAL MARKET",
+            "EngEstate": { "EstateName": "CENTRAL MARKET" },
+            "EngStreet": { "StreetName": "QUEEN'S ROAD CENTRAL", "BuildingNoFrom": "93" },
+            "EngDistrict": { "DcDistrict": "CENTRAL & WESTERN DISTRICT" },
+            "Region": "HK"
+          },
+          "GeoAddress": "3409416156T20050430",
+          "GeospatialInformation": { "Northing": "816127", "Easting": "834036", "Latitude": "22.28402", "Longitude": "114.15522" }
+        }
+      },
+      "ValidationInformation": { "Score": 69.93 }
+    },
+    {
+      "Address": {
+        "PremisesAddress": {
+          "EngPremisesAddress": {
+            "EngEstate": { "EstateName": "PARK CENTRAL" },
+            "EngStreet": { "LocationName": "TSEUNG KWAN O", "StreetName": "TONG TAK STREET", "BuildingNoFrom": "9" },
+            "EngDistrict": { "DcDistrict": "SAI KUNG DISTRICT" },
+            "Region": "NT"
+          },
+          "GeoAddress": "4454218688P20060311",
+          "GeospatialInformation": { "Northing": "818690", "Easting": "844545", "Latitude": "22.30715", "Longitude": "114.2572" }
+        }
+      },
+      "ValidationInformation": { "Score": 67.77 }
+    },
+    {
+      "Address": {
+        "PremisesAddress": {
+          "EngPremisesAddress": {
+            "EngBlock": { "BlockDescriptor": "TOWER", "BlockNo": "1", "BlockDescriptorPrecedenceIndicator": "Y" },
+            "EngEstate": { "EstateName": "PARK CENTRAL" },
+            "EngStreet": { "LocationName": "TSEUNG KWAN O", "StreetName": "TONG TAK STREET", "BuildingNoFrom": "9" },
+            "EngDistrict": { "DcDistrict": "SAI KUNG DISTRICT" },
+            "Region": "NT"
+          },
+          "GeoAddress": "4460518668T20050430",
+          "GeospatialInformation": { "Northing": "818668", "Easting": "844605", "Latitude": "22.30696", "Longitude": "114.25779" }
+        }
+      },
+      "ValidationInformation": { "Score": 67.77 }
+    },
+    {
+      "Address": {
+        "PremisesAddress": {
+          "EngPremisesAddress": {
+            "EngBlock": { "BlockDescriptor": "TOWER", "BlockNo": "2", "BlockDescriptorPrecedenceIndicator": "Y" },
+            "EngEstate": { "EstateName": "PARK CENTRAL" },
+            "EngStreet": { "LocationName": "TSEUNG KWAN O", "StreetName": "TONG TAK STREET", "BuildingNoFrom": "9" },
+            "EngDistrict": { "DcDistrict": "SAI KUNG DISTRICT" },
+            "Region": "NT"
+          },
+          "GeoAddress": "4456818655T20050430",
+          "GeospatialInformation": { "Northing": "818655", "Easting": "844568", "Latitude": "22.30684", "Longitude": "114.25743" }
+        }
+      },
+      "ValidationInformation": { "Score": 67.77 }
+    },
+    {
+      "Address": {
+        "PremisesAddress": {
+          "EngPremisesAddress": {
+            "EngBlock": { "BlockDescriptor": "TOWER", "BlockNo": "3", "BlockDescriptorPrecedenceIndicator": "Y" },
+            "EngEstate": { "EstateName": "PARK CENTRAL" },
+            "EngStreet": { "LocationName": "TSEUNG KWAN O", "StreetName": "TONG TAK STREET", "BuildingNoFrom": "9" },
+            "EngDistrict": { "DcDistrict": "SAI KUNG DISTRICT" },
+            "Region": "NT"
+          },
+          "GeoAddress": "4453218641T20050430",
+          "GeospatialInformation": { "Northing": "818641", "Easting": "844531", "Latitude": "22.30671", "Longitude": "114.25707" }
+        }
+      },
+      "ValidationInformation": { "Score": 67.77 }
+    },
+    {
+      "Address": {
+        "PremisesAddress": {
+          "EngPremisesAddress": {
+            "EngBlock": { "BlockDescriptor": "TOWER", "BlockNo": "5", "BlockDescriptorPrecedenceIndicator": "Y" },
+            "EngEstate": { "EstateName": "PARK CENTRAL" },
+            "EngStreet": { "LocationName": "TSEUNG KWAN O", "StreetName": "TONG TAK STREET", "BuildingNoFrom": "9" },
+            "EngDistrict": { "DcDistrict": "SAI KUNG DISTRICT" },
+            "Region": "NT"
+          },
+          "GeoAddress": "4449418628T20050430",
+          "GeospatialInformation": { "Northing": "818628", "Easting": "844494", "Latitude": "22.30659", "Longitude": "114.25671" }
+        }
+      },
+      "ValidationInformation": { "Score": 67.77 }
+    },
+    {
+      "Address": {
+        "PremisesAddress": {
+          "EngPremisesAddress": {
+            "EngBlock": { "BlockDescriptor": "TOWER", "BlockNo": "6", "BlockDescriptorPrecedenceIndicator": "Y" },
+            "EngEstate": { "EstateName": "PARK CENTRAL" },
+            "EngStreet": { "LocationName": "TSEUNG KWAN O", "StreetName": "TONG TAK STREET", "BuildingNoFrom": "9" },
+            "EngDistrict": { "DcDistrict": "SAI KUNG DISTRICT" },
+            "Region": "NT"
+          },
+          "GeoAddress": "4445718615T20050430",
+          "GeospatialInformation": { "Northing": "818614", "Easting": "844457", "Latitude": "22.30647", "Longitude": "114.25635" }
+        }
+      },
+      "ValidationInformation": { "Score": 67.77 }
+    },
+    {
+      "Address": {
+        "PremisesAddress": {
+          "EngPremisesAddress": {
+            "EngBlock": { "BlockDescriptor": "TOWER", "BlockNo": "7", "BlockDescriptorPrecedenceIndicator": "Y" },
+            "EngEstate": { "EstateName": "PARK CENTRAL" },
+            "EngStreet": { "LocationName": "TSEUNG KWAN O", "StreetName": "TONG TAK STREET", "BuildingNoFrom": "9" },
+            "EngDistrict": { "DcDistrict": "SAI KUNG DISTRICT" },
+            "Region": "NT"
+          },
+          "GeoAddress": "4445418695T20050430",
+          "GeospatialInformation": { "Northing": "818696", "Easting": "844454", "Latitude": "22.3072", "Longitude": "114.25632" }
+        }
+      },
+      "ValidationInformation": { "Score": 67.77 }
+    },
+    {
+      "Address": {
+        "PremisesAddress": {
+          "EngPremisesAddress": {
+            "EngBlock": { "BlockDescriptor": "TOWER", "BlockNo": "8", "BlockDescriptorPrecedenceIndicator": "Y" },
+            "EngEstate": { "EstateName": "PARK CENTRAL" },
+            "EngStreet": { "LocationName": "TSEUNG KWAN O", "StreetName": "TONG TAK STREET", "BuildingNoFrom": "9" },
+            "EngDistrict": { "DcDistrict": "SAI KUNG DISTRICT" },
+            "Region": "NT"
+          },
+          "GeoAddress": "4448618706T20050430",
+          "GeospatialInformation": { "Northing": "818707", "Easting": "844486", "Latitude": "22.3073", "Longitude": "114.25663" }
+        }
+      },
+      "ValidationInformation": { "Score": 67.77 }
+    },
+    {
+      "Address": {
+        "PremisesAddress": {
+          "EngPremisesAddress": {
+            "EngBlock": { "BlockDescriptor": "TOWER", "BlockNo": "9", "BlockDescriptorPrecedenceIndicator": "Y" },
+            "EngEstate": { "EstateName": "PARK CENTRAL" },
+            "EngStreet": { "LocationName": "TSEUNG KWAN O", "StreetName": "TONG TAK STREET", "BuildingNoFrom": "9" },
+            "EngDistrict": { "DcDistrict": "SAI KUNG DISTRICT" },
+            "Region": "NT"
+          },
+          "GeoAddress": "4451818718T20050430",
+          "GeospatialInformation": { "Northing": "818718", "Easting": "844518", "Latitude": "22.30741", "Longitude": "114.25694" }
+        }
+      },
+      "ValidationInformation": { "Score": 67.77 }
+    },
+    {
+      "Address": {
+        "PremisesAddress": {
+          "EngPremisesAddress": {
+            "EngBlock": { "BlockDescriptor": "TOWER", "BlockNo": "10", "BlockDescriptorPrecedenceIndicator": "Y" },
+            "EngEstate": { "EstateName": "PARK CENTRAL" },
+            "EngStreet": { "LocationName": "TSEUNG KWAN O", "StreetName": "TONG TAK STREET", "BuildingNoFrom": "9" },
+            "EngDistrict": { "DcDistrict": "SAI KUNG DISTRICT" },
+            "Region": "NT"
+          },
+          "GeoAddress": "4455018730T20050430",
+          "GeospatialInformation": { "Northing": "818730", "Easting": "844550", "Latitude": "22.30752", "Longitude": "114.25726" }
+        }
+      },
+      "ValidationInformation": { "Score": 67.77 }
+    },
+    {
+      "Address": {
+        "PremisesAddress": {
+          "EngPremisesAddress": {
+            "EngBlock": { "BlockDescriptor": "TOWER", "BlockNo": "11", "BlockDescriptorPrecedenceIndicator": "Y" },
+            "EngEstate": { "EstateName": "PARK CENTRAL" },
+            "EngStreet": { "LocationName": "TSEUNG KWAN O", "StreetName": "TONG TAK STREET", "BuildingNoFrom": "9" },
+            "EngDistrict": { "DcDistrict": "SAI KUNG DISTRICT" },
+            "Region": "NT"
+          },
+          "GeoAddress": "4458218741T20050430",
+          "GeospatialInformation": { "Northing": "818742", "Easting": "844583", "Latitude": "22.30762", "Longitude": "114.25757" }
+        }
+      },
+      "ValidationInformation": { "Score": 67.77 }
+    },
+    {
+      "Address": {
+        "PremisesAddress": {
+          "EngPremisesAddress": {
+            "EngBlock": { "BlockDescriptor": "TOWER", "BlockNo": "12", "BlockDescriptorPrecedenceIndicator": "Y" },
+            "EngEstate": { "EstateName": "PARK CENTRAL" },
+            "EngStreet": { "LocationName": "TSEUNG KWAN O", "StreetName": "TONG TAK STREET", "BuildingNoFrom": "9" },
+            "EngDistrict": { "DcDistrict": "SAI KUNG DISTRICT" },
+            "Region": "NT"
+          },
+          "GeoAddress": "4461618754T20050430",
+          "GeospatialInformation": { "Northing": "818754", "Easting": "844616", "Latitude": "22.30773", "Longitude": "114.25789" }
+        }
+      },
+      "ValidationInformation": { "Score": 67.77 }
+    }
+  ]
+}
